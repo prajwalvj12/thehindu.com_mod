@@ -30,6 +30,6 @@ npm run build
 
 ## Features
 
--close to thehindu.com front page.
--added dark mode toggle.
--added custom notifications button. 
+- close to thehindu.com front page
+- added dark mode toggle
+- added custom notifications button 
