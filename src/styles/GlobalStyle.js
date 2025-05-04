@@ -62,6 +62,12 @@ const GlobalStyle = createGlobalStyle`
   .sc-dNpohg.jLxFIJ, .jLxFIJ {
     background: #fafafa !important;
   }
+
+  .sc-Qotzb.gfAgQw, .gfAgQw,
+  .sc-Qotzb.dNoYzv, .dNoYzv {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
 `;
 
 export { GlobalStyle };
