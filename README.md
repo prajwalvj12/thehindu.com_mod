@@ -30,8 +30,6 @@ npm run build
 
 ## Features
 
-- Responsive design
-- Modern UI components
-- News article display
-- Category navigation
-- Search functionality 
+-close to thehindu.com front page.
+-added dark mode toggle.
+-added custom notifications button. 
