@@ -1,6 +1,6 @@
-# The Hindu Website Replica
+# The Hindu Website Replica with added features.
 
-This is a replica of The Hindu's website built with React and styled-components.
+This is a replica of The Hindu's website built with React and styled-components and extra features.
 
 ## Setup Instructions
 
